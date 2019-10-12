@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Petro Junior Milan
 
 # Username (this should match the folder name)
 authors:
@@ -9,33 +9,44 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+
 # Role/position
-role: Professor of Artificial Intelligence
+
+
+role: Graduate Research Assistant
+
 
 # Organizations/Affiliations
+
+
 organizations:
-- name: Stanford University
+- name: Georgia Institute of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+
+
+bio: My research interests include chemical propulsion, computer simulations, data science and HPC.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Fluid Dynamics
+- Turbulent Combustion
+- Chemical Propulsion
+- High Performance Computing
+- Deep Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Aerospace Engineering
+    institution: Georgia Institute of Technology
+    year: 2021
+  - course: MSc in Computational Science and Engineering
+    institution: Georgia Institute of Technology
+    year: 2021
+  - course: BEng in Aerospace Engineering
+    institution: Polytechnique Montreal
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -67,9 +78,11 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
+
+
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Petro Junior is a computational scientist and aerospace engineer with primary focus on the design, analysis, and implementation of large-scale algorithms on massively-parallel supercomputers for the simulation and modelling of complex flow physics and combustion in advanced propulsion systems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He is currently a PhD/MSc student under the supervision of Prof. Vigor Yang at Georgia Tech. His thesis focuses on combining state-of-the-art tools in computer simulations, heterogeneous parallel computing, and artificial intelligence for data-enabled design of rocket injectors at extreme physical conditions. His research collaborators include Prof. Xingjian Wang at Florida Tech and Prof. Jean-Pierre Hickey at University of Waterloo.
