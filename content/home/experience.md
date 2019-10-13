@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Graduate Research Assistant and Lab System Administrator"
   company = "Vigor Yang's Research Group, Georgia Institute of Technology"
   company_url = "http://www.yang.gatech.edu/"
   location = "Atlanta, GA, USA"
