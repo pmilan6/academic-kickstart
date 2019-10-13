@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Atlanta, GA, USA"
   date_start = "2018-08-01"
   date_end = ""
-  description = ""
+  description = "DNS/LES simulations, supercritical mixing and combustion, in-house CFD code development, GPU acceleration, deep learning, data-enabled design"
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   location = "Atlanta, GA, USA"
   date_start = "2016-08-01"
   date_end = "2018-07-31"
-  description = ""
+  description = "DNS/LES simulations, subgrid-scale modeling, multiphase spray combustion, soot modeling, chemical reactor network, plasma ignition"
 
 [[experience]]
   title = "Engineering Intern"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "Longueuil, QC, Canada"
   date_start = "2016-05-01"
   date_end = "2016-08-31"
-  description = ""
+  description = "Aerothermodynamic of turbofan mixers"
 
 [[experience]]
   title = "Undergraduate Research Assistant"
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   location = "Montreal, QC, Canada"
   date_start = "2015-09-01"
   date_end = "2016-08-31"
-  description = ""
+  description = "Sensitivity analysis, finite element method"
 
 [[experience]]
   title = "Engineering Intern"
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = "Longueuil, QC, Canada"
   date_start = "2015-05-01"
   date_end = "2015-08-31"
-  description = ""
+  description = "Aerothermodynamic of turbofan mixers"
 
 [[experience]]
   title = "Undergraduate Research Assistant"
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   location = "Longueuil, QC, Canada"
   date_start = "2013-05-01"
   date_end = "2015-04-30"
-  description = ""
+  description = "CFD/RANS simulations, plasma aerodynamics, flow control, turbomachinery, wind-tunnel experiments"
 
 [[experience]]
   title = "Undergraduate Teaching Assistant"
