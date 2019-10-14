@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "Atlanta, GA, USA"
   date_start = "2018-08-01"
   date_end = ""
-  description = "DNS/LES simulations, supercritical mixing and combustion, in-house CFD code development, GPU acceleration, deep learning, data-enabled design"
+  description = "DNS/LES simulations, supercritical mixing and combustion, in-house CFD code development, GPU acceleration, deep learning, data-enabled design, rocket propulsion"
 
 [[experience]]
   title = "Graduate Research Assistant"

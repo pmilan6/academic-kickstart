@@ -79,14 +79,12 @@ email: ""
 user_groups:
 - Researchers
 
-
-
-
-
 - Visitors
 ---
 
-Petro Junior is a passionate computational scientist and aerospace engineer with primary focus on the design, analysis, and implementation of large-scale algorithms on massively-parallel supercomputers for the simulation and modelling of complex flow physics and combustion in advanced propulsion systems. 
+Petro Junior is a computational scientist and aerospace engineer with primary focus on the design, analysis, and implementation of large-scale algorithms on massively-parallel supercomputers for the simulation and modelling of complex flow physics and combustion in advanced propulsion systems. Such flows are dictated by the [Navier-Stokes equations ](https://www.claymath.org/millennium-problems/navier%E2%80%93stokes-equation).
 
-He is currently a PhD/MSc student in the [School of Aerospace Engineering](https://ae.gatech.edu/) at Georgia Tech where is working under the supervision of [Prof. Vigor Yang](https://ae.gatech.edu/people/vigor-yang) to develop and combine state-of-the-art tools in **computer simulations**, **heterogeneous parallel computing**, and **artificial intelligence** for data-enabled design of rocket injectors at extreme physical conditions. Part of his research is done in collaboration with [Prof. Xingjian Wang](https://www.fit.edu/faculty-profiles/w/xingjian-wang/) from Florida Tech and [Prof. Jean-Pierre Hickey](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/j6hickey) from University of Waterloo. He has been funded by Air Force Office of
+He is currently a PhD/MSc student in the [School of Aerospace Engineering](https://ae.gatech.edu/) at Georgia Tech where is working under the supervision of [Prof. Vigor Yang](https://ae.gatech.edu/people/vigor-yang) to develop and combine state-of-the-art tools in **computer simulations**, **heterogeneous parallel computing**, and **artificial intelligence** for understanding and discovery of new physics and enabling innovative design of rocket injectors at extreme conditions. Part of his research is done in collaboration with [Prof. Xingjian Wang](https://www.fit.edu/faculty-profiles/w/xingjian-wang/) from Florida Tech and [Prof. Jean-Pierre Hickey](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/j6hickey) from University of Waterloo. He has been funded by Air Force Office of
 Scientific Research (AFOSR), National Aeronautics and Space Administration (NASA), Natural Sciences and Engineering Research Council of Canada (NSERC), _Fonds de Recherche du Quebec - Nature et Technologies_ (FRQNT), Pratt & Whitney Canada and Bombardier Aerospace.
+
+In his spare time, he enjoys doing sport and reading or watching documentaries about history and world politics.
